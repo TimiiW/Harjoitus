@@ -24,6 +24,8 @@ namespace ConsoleApp1
         public static void laske(int luku1, int luku2)
         {
             Console.WriteLine((luku1 + luku2) * 1.8);
-        }
+        } 
+        
+        public static void
     }
 }
